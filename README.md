@@ -4,6 +4,9 @@ Using open-source data, The Homelessness Services Navigator is a web application
 finding and utilizing services that are available to individuals experiencing homelessness. The application allows dynamic filtering of
 facilities and services, making it easy to use and navigate. Planned enhancements for Phase 2 include the incorporation of geo-routing to help individuals plan transportation between facilities.
 
+![Screenshot of demo site](https://image.ibb.co/gePMrn/homeless_1_1024.jpg)
+
+
 ## Background / On-Boarding
 
 This project supports the DC Interagency Council on Homelessness's initiative to make homelessness in DC a "rare, brief, and non-recurring experience." While some individuals experiencing homelessness will resolve their episode of homelessness by qualifying for a government housing program, space in these programs is limited and governed by a tiered coordinated entry system. DC offers a wide range of services to support individuals experiencing homelessness who are waiting on housing or have not qualified. These services are designed to help individuals maximize their chances to self-resolve the episode of homelessness.
